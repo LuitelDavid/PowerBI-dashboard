@@ -27,6 +27,3 @@ Built an interactive Power BI dashboard to analyze sales across time, products, 
 - Data Cleaning & Transformation  
 
 ---
-
-### 📁 Dataset
-> Add source or mention if dataset is synthetic / self-created
